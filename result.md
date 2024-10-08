@@ -2,12 +2,17 @@
 1. Были просмотрены лекции №2 и №3.
 2. Изучены новые команды ОС Линукс для:
    - Изменения создателя файла
+  ![image](https://github.com/user-attachments/assets/c3c48d6c-d2b4-4468-a3df-e983b0a53de5)
    - Изменения режима доступа к файлам/папкам
+   ![image](https://github.com/user-attachments/assets/83836b63-82dc-48ab-9398-845128434e78)
    - Вывода информации о команде/системе (```history```, ```uname -a```, ```whatis``` и т.д.)
+   ![image](https://github.com/user-attachments/assets/1d2c4b3e-e02e-40eb-a76d-70ae17abf13c)
 3. Изучены основы языка Bash:
    - Переменные и операции с ними
    - Условные конструкции
    - Циклы
    - Функции
    - Массив и работа с ним
+   ![image](https://github.com/user-attachments/assets/b028ec41-6875-46af-bbbc-c5d56f524529)
+
 4. Получена информация об ip-адресах и масках подсети.
